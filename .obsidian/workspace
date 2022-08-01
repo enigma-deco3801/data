@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Assignments.md",
+            "file": "Loop Equivalence - For and While.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignments.md",
+                "file": "Loop Equivalence - For and While.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignments.md",
+                "file": "Loop Equivalence - For and While.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Assignments.md",
+                "file": "Loop Equivalence - For and While.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +219,8 @@
   },
   "active": "4e0e9165c0ce639e",
   "lastOpenFiles": [
+    "Strings.md",
+    "Assignments.md",
     "file.md",
     "Projects.md",
     "Dashboard (Main).md",
@@ -226,8 +228,6 @@
     "Startup Stack.md",
     "Parking App.md",
     "Design Process (MOC).md",
-    "Ideas (MOC).md",
-    "images/Parking App 2022-07-16 11.58.46.excalidraw.md",
-    "React Project Structure Creator Plugin.md"
+    "Ideas (MOC).md"
   ]
 }
