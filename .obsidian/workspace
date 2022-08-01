@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Loop Equivalence - For and While.md",
+            "file": "pointers.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loop Equivalence - For and While.md",
+                "file": "pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loop Equivalence - For and While.md",
+                "file": "pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loop Equivalence - For and While.md",
+                "file": "pointers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +219,15 @@
   },
   "active": "4e0e9165c0ce639e",
   "lastOpenFiles": [
+    "images/pointers 2022-08-01 16.14.33.excalidraw.md",
+    "pointers.md",
+    "Loop Equivalence - For and While.md",
     "Strings.md",
     "Assignments.md",
     "file.md",
     "Projects.md",
     "Dashboard (Main).md",
     "Strategy.md",
-    "Startup Stack.md",
-    "Parking App.md",
-    "Design Process (MOC).md",
-    "Ideas (MOC).md"
+    "Startup Stack.md"
   ]
 }
