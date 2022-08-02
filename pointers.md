@@ -1,5 +1,23 @@
 # Pointers
 ___
+### Pointer Basics
+```
+// creating an empty pointer
+int *x;
+
+// allocating the pointer (to empty)
+x = (int*) malloc(1 * sizeof(int));
+
+// or allocating to existing variable
+int a = 10;
+x = &a;
+printf("%i", *x); // 10
+```
+
+___
+[[dynamic array creation and manipulation]] using pointers
+
+___
 ### Pointers Visualization
 ![[pointers 2022-08-01 16.14.33.excalidraw]]
 
@@ -19,4 +37,14 @@ int main() {
     printf("memory: %i %i %i\n", &x, &y, z);
     printf("memory: %i\n", &z);
 }
+```
+
+___
+### Usage in [[structs]]
+```
+MyStruct* obj;
+obj = malloc(sizeof(MyStruct));
+
+obj->a = 8;
+obj->b = "hello";
 ```

@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4e0e9165c0ce639e",
+        "id": "d94d8e5a62b857e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "pointers.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d13c2baaf3ed20fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "structs.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pointers.md",
+                "file": "structs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pointers.md",
+                "file": "structs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pointers.md",
+                "file": "structs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,17 +230,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "4e0e9165c0ce639e",
+  "active": "d13c2baaf3ed20fa",
   "lastOpenFiles": [
-    "images/pointers 2022-08-01 16.14.33.excalidraw.md",
     "pointers.md",
+    "structs.md",
+    "images/pointers 2022-08-01 16.14.33.excalidraw.md",
+    "typedef.md",
     "Loop Equivalence - For and While.md",
+    "dynamic array creation and manipulation.md",
+    "input.md",
+    "docs/teaching plan week by week.pdf",
     "Strings.md",
-    "Assignments.md",
-    "file.md",
-    "Projects.md",
-    "Dashboard (Main).md",
-    "Strategy.md",
-    "Startup Stack.md"
+    "Assignments.md"
   ]
 }
