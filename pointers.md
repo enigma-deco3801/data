@@ -40,6 +40,26 @@ int main() {
 ```
 
 ___
+### Incrementing over a `char*` pointer
+```
+char* str = "hello";
+
+// Way 1
+int i = 0;
+while(str[i]) {
+	// do whatever
+	i++;
+}
+
+// Way 2
+char* ptr = str
+while(*ptr) {
+	// do something
+	ptr++;
+}
+```
+
+___
 ### Usage in [[structs]]
 ```
 MyStruct* obj;

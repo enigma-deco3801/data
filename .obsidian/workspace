@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structs.md",
+                "file": "pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structs.md",
+                "file": "pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "structs.md",
+                "file": "pointers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,11 +230,11 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "d13c2baaf3ed20fa",
+  "active": "d94d8e5a62b857e7",
   "lastOpenFiles": [
+    "images/pointers 2022-08-01 16.14.33.excalidraw.md",
     "pointers.md",
     "structs.md",
-    "images/pointers 2022-08-01 16.14.33.excalidraw.md",
     "typedef.md",
     "Loop Equivalence - For and While.md",
     "dynamic array creation and manipulation.md",
