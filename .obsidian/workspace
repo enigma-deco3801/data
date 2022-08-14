@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d13c2baaf3ed20fa",
+        "id": "a079e929ab4f0aa0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dynamic array creation and manipulation.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dynamic array creation and manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dynamic array creation and manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +163,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dynamic array creation and manipulation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,17 +209,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "d13c2baaf3ed20fa",
+  "active": "a079e929ab4f0aa0",
   "lastOpenFiles": [
+    "temp.md",
+    "Function Pointers.md",
+    "typedef.md",
+    "operators.md",
+    "sizeof operator questions.md",
+    "dynamic array creation and manipulation.md",
     "Assignments.md",
     "pointers.md",
-    "dynamic array creation and manipulation.md",
     "structs.md",
-    "temp.md",
-    "images/pointers 2022-08-01 16.14.33.excalidraw.md",
-    "typedef.md",
-    "Loop Equivalence - For and While.md",
-    "input.md",
-    "docs/teaching plan week by week.pdf"
+    "images/pointers 2022-08-01 16.14.33.excalidraw.md"
   ]
 }
