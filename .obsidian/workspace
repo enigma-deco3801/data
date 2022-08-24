@@ -7,12 +7,9 @@
         "id": "544d7a3a5d8bae30",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "2022-08-14.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "docs/Front-End Component Heirachy.pdf"
           }
         }
       }
@@ -32,8 +29,10 @@
             "id": "43cd330bf7dade7a",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "images/2022-08-14 2022-08-14 18.33.39.excalidraw.md"
+              }
             }
           },
           {
@@ -50,8 +49,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "57d94c77b018b52f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "aca9a04c54dfac50",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-14.md",
+                "file": "docs/Front-End Component Heirachy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-14.md",
+                "file": "docs/Front-End Component Heirachy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2022-08-14.md",
+                "file": "docs/Front-End Component Heirachy.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,15 +227,15 @@
   },
   "active": "544d7a3a5d8bae30",
   "lastOpenFiles": [
-    "images/2022-08-14 2022-08-14 18.33.39.excalidraw.md",
-    "2022-08-14.md",
+    "docs/065 Capturing Travel Experiences.pdf",
+    "docs/Front-End Component Heirachy.pdf",
     "log.md",
+    "2022-08-14.md",
+    "1.md",
+    "images/2022-08-14 2022-08-14 18.33.39.excalidraw.md",
     "temp.md",
     "Function Pointers.md",
     "typedef.md",
-    "operators.md",
-    "sizeof operator questions.md",
-    "dynamic array creation and manipulation.md",
-    "Assignments.md"
+    "operators.md"
   ]
 }
