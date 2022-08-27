@@ -1,7 +1,48 @@
 #devops #cicd 
 # Creating a basic DevOps pipeline
 ___
+- Go to `.github/workflows` in your project directory
+- create a file named `ci.yml`
+- It will have two `jobs`:
+	- **Install and Test**
+	- **Build Android**
+- (Build iOS will be covered later)
 
+___
+### Install and Test
+```
+install-and-test:  
+	runs-on: ubuntu-latest  
+	steps:  
+		- uses: actions/checkout@v2  
+		- name: Install npm dependencies  
+		  run: |  
+		    npm install  
+		- name: Run tests  
+		  run: |  
+			npm test
+```
+
+___
+### Build Android
+```
+build-android:  
+	needs: install-and-test  
+	runs-on: ubuntu-latest  
+		steps:  
+			- uses: actions/checkout@v2  
+			- name: Install npm dependencies  
+		run: |  
+		  npm install  
+		- name: Build Android Release  
+		  run: |  
+			cd android && ./gradlew   
+		- name: Upload Artifact  
+		  uses: actions/upload-artifact@v1  
+		  with:  
+			name: app-release.apk  
+			path: android/app/build/outputs/apk/release/
+```
 
 ___
 ### Resources
