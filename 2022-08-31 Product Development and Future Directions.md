@@ -16,11 +16,18 @@ By the time we were done with these tasks, we had also achieved something signif
 ### Future Directions
 Now that we have a fixed process to follow, we will shift towards the SCRUM approach in our subsequent sprints, which guarantees us more structure and more control over our deliverables and deadlines.
 
-Every sprint will last approximately 2 weeks, by the end of which, all the code will be merged to yield a functioning deliverable.
+Every sprint will last **approximately 2 weeks**, by the end of which, all the code will be merged to yield a functioning deliverable.
 
 All our goals will loosely resemble one of the four cycles we have defined for our development:
 
-- **The Design Cycle** - 
-- **The Frontend Cycle** - 
-- **The Backend Cycle** - 
-- **The DevOps Cycle** - 
+**The Design Cycle**
+In this cycle, we will create low-fidelity prototypes for new features and convert low-fidelity to high for already existing features. User reviews and testing will be involved in every step of the process.
+
+**The Frontend Cycle**
+In this cycle, we will take a look at the high-fidelity prototype and decide which features to convert into code according to priority. The process will include everyone taking a seperate feature to implement. All of the functionality will be merged into the main frontend at the end of the sprint.
+
+**The Backend Cycle**
+This cycle corresponds to the data and business layer of the software.
+
+**The DevOps Cycle**
+This cycle corresponds to the data and business layer of the software.
