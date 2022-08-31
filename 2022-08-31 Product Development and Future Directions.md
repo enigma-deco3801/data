@@ -24,7 +24,7 @@ All our goals will loosely resemble one of the four cycles we have defined for o
 In this cycle, we will create low-fidelity prototypes for new features and convert low-fidelity to high for already existing features. User reviews and testing will be involved in every step of the process.
 
 **The Frontend Cycle**
-In this cycle, we will take a look at the high-fidelity prototype and decide which features to convert into code according to priority. The process will include everyone taking a seperate feature to implement. All of the functionality will be merged into the main frontend at the end of the sprint.
+In this cycle, we will take a look at the high-fidelity prototype and decide which features to convert into code according to priority. The process will include everyone taking a separate feature to implement. All of the functionality will be merged into the main frontend at the end of the sprint.
 
 **The Backend Cycle**
 This cycle corresponds to the data and business layer of the software.
