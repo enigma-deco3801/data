@@ -2,6 +2,6 @@
 ___
 A travel app.
 
-![[/images/Pasted image 20220909193504.png]]
+![](./images/Pasted image 20220909193504.png)
 
 ___
