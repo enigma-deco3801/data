@@ -31,5 +31,6 @@
   "obsidian-react-components",
   "templater-obsidian",
   "theme-picker",
-  "workbench-obsidian"
+  "workbench-obsidian",
+  "obsidian-extract-pdf-highlights"
 ]
