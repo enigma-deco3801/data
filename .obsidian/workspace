@@ -7,8 +7,13 @@
         "id": "c967605e93812da4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -101,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Low Fidelity Prototype.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Low Fidelity Prototype.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Low Fidelity Prototype.md",
+                "file": "README.md.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,10 +239,10 @@
   },
   "active": "c967605e93812da4",
   "lastOpenFiles": [
-    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
     "Low Fidelity Prototype.md",
-    "temp.md",
+    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
     "log.md",
+    "temp.md",
     "Creating a basic devops pipeline.md",
     "Creating and testing an API.md",
     "2022-08-31 Product Development and Future Directions.md",
