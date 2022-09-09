@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb63cfa69adc29b",
+        "id": "c967605e93812da4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-08-31 Product Development and Future Directions.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -26,7 +21,7 @@
       {
         "id": "0a4fb6b8976331a9",
         "type": "tabs",
-        "dimension": 60.12145748987854,
+        "dimension": 47.97570850202429,
         "children": [
           {
             "id": "43cd330bf7dade7a",
@@ -54,9 +49,29 @@
         ]
       },
       {
+        "id": "89958e0e783a2812",
+        "type": "tabs",
+        "dimension": 25.607287449392715,
+        "children": [
+          {
+            "id": "3db6063ff2d5d2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Low Fidelity Prototype.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "aca9a04c54dfac50",
         "type": "tabs",
-        "dimension": 39.878542510121456,
+        "dimension": 26.417004048583,
         "children": [
           {
             "id": "be2ce8ef844434a2",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-31 Product Development and Future Directions.md",
+                "file": "Low Fidelity Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-31 Product Development and Future Directions.md",
+                "file": "Low Fidelity Prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2022-08-31 Product Development and Future Directions.md",
+                "file": "Low Fidelity Prototype.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,17 +232,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "5cb63cfa69adc29b",
+  "active": "c967605e93812da4",
   "lastOpenFiles": [
-    "log.md",
-    "2022-08-31 Product Development and Future Directions.md",
-    "temp.md",
-    "images/temp 2022-08-30 21.43.57.excalidraw.md",
-    "docs/Front-End Component Heirachy.pdf",
     "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
     "Low Fidelity Prototype.md",
+    "temp.md",
+    "log.md",
     "Creating a basic devops pipeline.md",
     "Creating and testing an API.md",
-    "2022-08-14.md"
+    "2022-08-31 Product Development and Future Directions.md",
+    "2022-08-14.md",
+    "2022-08-27.md",
+    "Teams Of Interest.md"
   ]
 }
