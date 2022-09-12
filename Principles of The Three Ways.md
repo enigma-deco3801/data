@@ -3,7 +3,7 @@ ___
 ### Start
 
 ___
-- Flow
+- [[Flow (DevOps)|Flow]]
 	- deployment pipeline
 	- automated testing
 	- continuous integration
@@ -17,6 +17,6 @@ ___
 
 - Continuous Learning and Experimentation
 	- culture
-	- organiational learning
+	- organizational learning
 
 - 

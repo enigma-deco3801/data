@@ -9,7 +9,33 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-12.md",
+            "file": "DevOps.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0693b8a500b02281",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Architecture (Brief).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9c60191209e3bcc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Containers (Docker).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -107,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "Containers (Docker).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "Containers (Docker).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "Containers (Docker).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,17 +264,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "883a36e5c6576236",
+  "active": "9c60191209e3bcc2",
   "lastOpenFiles": [
-    "revenue model 2 (open events).md",
+    "Software Architecture (Brief).md",
+    "Pipeline Architecture.md",
+    "DevOps.md",
+    "Principles of The Three Ways.md",
+    "Flow (DevOps).md",
     "2022-09-12.md",
+    "revenue model 2 (open events).md",
     "images/2022-09-12 2022-09-12 21.39.51.excalidraw.md",
     "Low Fidelity Prototype.md",
-    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
-    "log.md",
-    "revenue models.md",
-    "DevOps.md",
-    "images/2022-09-12 2022-09-12 21.10.00.excalidraw.md",
-    "Principles of The Three Ways.md"
+    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md"
   ]
 }
