@@ -30,6 +30,19 @@
         }
       },
       {
+        "id": "6b90524c94020753",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Deployment Strategies.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "e11e94e8d8465a25",
         "type": "leaf",
         "state": {
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Deployment Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Deployment Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Deployment Strategies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,17 +277,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "e11e94e8d8465a25",
+  "active": "6b90524c94020753",
   "lastOpenFiles": [
+    "DevOps.md",
+    "Deployment Strategies.md",
     "Software Architecture (Brief).md",
+    "Distributed Systems.md",
     "Service Based Architecture.md",
     "Microkernel (Plug-In) Architecture.md",
     "Infrastructure as Code.md",
     "Pipeline Architecture.md",
-    "DevOps.md",
     "Containers (Docker).md",
-    "Principles of The Three Ways.md",
-    "Flow (DevOps).md",
-    "2022-09-12.md"
+    "Principles of The Three Ways.md"
   ]
 }
