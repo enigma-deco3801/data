@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DevOps.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8e8c9e87ad348b33",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-09-12.md",
+            "file": "log.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "log.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,17 +237,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "8e8c9e87ad348b33",
+  "active": "883a36e5c6576236",
   "lastOpenFiles": [
-    "images/2022-09-12 2022-09-12 21.10.00.excalidraw.md",
+    "revenue models.md",
+    "DevOps.md",
     "2022-09-12.md",
+    "revenue model 2.md",
+    "images/2022-09-12 2022-09-12 21.10.00.excalidraw.md",
     "log.md",
     "Principles of The Three Ways.md",
-    "DevOps.md",
     "Low Fidelity Prototype.md",
     "docs/Low Fidelity Prototype v1.pdf",
-    "docs/Low Fidelity Prototype v2.pdf",
-    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
-    "docs/Front-End Component Heirachy.pdf"
+    "docs/Low Fidelity Prototype v2.pdf"
   ]
 }
