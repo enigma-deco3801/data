@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Service Based Architecture.md",
+                "file": "Infrastructure as Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Service Based Architecture.md",
+                "file": "Infrastructure as Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Service Based Architecture.md",
+                "file": "Infrastructure as Code.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,9 +277,10 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "379942cc676245d5",
+  "active": "051f88b63f3eb132",
   "lastOpenFiles": [
     "Software Architecture (Brief).md",
+    "Service Based Architecture.md",
     "Infrastructure as Code.md",
     "Microkernel (Plug-In) Architecture.md",
     "Containers (Docker).md",
@@ -287,7 +288,6 @@
     "DevOps.md",
     "Principles of The Three Ways.md",
     "Flow (DevOps).md",
-    "2022-09-12.md",
-    "revenue model 2 (open events).md"
+    "2022-09-12.md"
   ]
 }

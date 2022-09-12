@@ -4,6 +4,8 @@ ___
 - Machine Configuration - dependencies, OS, env
 - Stack Configuration - compute, storage and networking
 
-IaC is stack configuration
+**IAC** is stack configuration
 
 ___
+### References
+[[infrastructure-as-code.pdf]]
