@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "log.md",
+            "file": "2022-09-12.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "0a4fb6b8976331a9",
         "type": "tabs",
-        "dimension": 47.97570850202429,
+        "dimension": 55.01519756838906,
         "children": [
           {
             "id": "43cd330bf7dade7a",
@@ -56,7 +56,7 @@
       {
         "id": "89958e0e783a2812",
         "type": "tabs",
-        "dimension": 25.607287449392715,
+        "dimension": 20.56737588652482,
         "children": [
           {
             "id": "3db6063ff2d5d2fe",
@@ -76,7 +76,7 @@
       {
         "id": "aca9a04c54dfac50",
         "type": "tabs",
-        "dimension": 26.417004048583,
+        "dimension": 24.41742654508612,
         "children": [
           {
             "id": "be2ce8ef844434a2",
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a5582535d45ee27",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log.md",
+                "file": "2022-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log.md",
+                "file": "2022-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "log.md",
+                "file": "2022-09-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,15 +240,15 @@
   },
   "active": "883a36e5c6576236",
   "lastOpenFiles": [
+    "revenue model 2 (open events).md",
+    "2022-09-12.md",
+    "images/2022-09-12 2022-09-12 21.39.51.excalidraw.md",
+    "Low Fidelity Prototype.md",
+    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
+    "log.md",
     "revenue models.md",
     "DevOps.md",
-    "2022-09-12.md",
-    "revenue model 2.md",
     "images/2022-09-12 2022-09-12 21.10.00.excalidraw.md",
-    "log.md",
-    "Principles of The Three Ways.md",
-    "Low Fidelity Prototype.md",
-    "docs/Low Fidelity Prototype v1.pdf",
-    "docs/Low Fidelity Prototype v2.pdf"
+    "Principles of The Three Ways.md"
   ]
 }
