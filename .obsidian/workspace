@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cce22317600799e9",
+        "id": "883a36e5c6576236",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DevOps.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a5582535d45ee27",
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps.md",
+                "file": "Low Fidelity Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps.md",
+                "file": "Low Fidelity Prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DevOps.md",
+                "file": "Low Fidelity Prototype.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,17 +233,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "cce22317600799e9",
+  "active": "883a36e5c6576236",
   "lastOpenFiles": [
-    "Github Action - Automated Testing.md",
+    "docs/Low Fidelity Prototype v1.pdf",
+    "docs/Low Fidelity Prototype v2.pdf",
     "Low Fidelity Prototype.md",
+    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
+    "docs/Front-End Component Heirachy.pdf",
+    "DevOps.md",
+    "Github Action - Automated Testing.md",
     "README.md",
     "images/Pasted image 20220828004053.png",
-    "images/Pasted image 20220909193504.png",
-    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md",
-    "log.md",
-    "temp.md",
-    "Creating and testing an API.md",
-    "2022-08-31 Product Development and Future Directions.md"
+    "images/Pasted image 20220909193504.png"
   ]
 }
