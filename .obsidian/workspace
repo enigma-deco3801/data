@@ -30,25 +30,12 @@
         }
       },
       {
-        "id": "379942cc676245d5",
+        "id": "e11e94e8d8465a25",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Service Based Architecture.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "051f88b63f3eb132",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Infrastructure as Code.md",
+            "file": "Distributed Systems.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infrastructure as Code.md",
+                "file": "Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infrastructure as Code.md",
+                "file": "Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infrastructure as Code.md",
+                "file": "Distributed Systems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,15 +264,15 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "051f88b63f3eb132",
+  "active": "e11e94e8d8465a25",
   "lastOpenFiles": [
     "Software Architecture (Brief).md",
     "Service Based Architecture.md",
-    "Infrastructure as Code.md",
     "Microkernel (Plug-In) Architecture.md",
-    "Containers (Docker).md",
+    "Infrastructure as Code.md",
     "Pipeline Architecture.md",
     "DevOps.md",
+    "Containers (Docker).md",
     "Principles of The Three Ways.md",
     "Flow (DevOps).md",
     "2022-09-12.md"

@@ -1,4 +1,6 @@
 # Microkernel (Plug-In) Architecture
+![[Pasted image 20220913004754.png|600]]
+
 ___
 The microkernel architecture aims to deliver sophisticated software systems while maintaining the quality attributes of simplicity and extensibility. This is achieved by implementing a simple core system that is extended by plug-ins that deliver additional system behaviour. Microkernel is also known as a “plug-in” architecture.
 

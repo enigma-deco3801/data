@@ -1,6 +1,8 @@
 # Pipeline Architecture
+![[Pasted image 20220913012653.png]]
+
 ___
-Best example of pipeline architecture is bash
+Best example of pipeline architecture is **bash**
 
 ![[Pasted image 20220913000423.png]]
 

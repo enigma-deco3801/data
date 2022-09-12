@@ -1,5 +1,6 @@
-# Software Architecture
+# Software Architecture (Brief)
 ___
+- [[Layered Architecture]]
 - [[Pipeline Architecture]]
 - [[Containers (Docker)]]
 - [[Microkernel (Plug-In) Architecture]]
@@ -13,3 +14,6 @@ ___
 - [[Deployment Strategies]]
 
 ___
+### References
+[Top 5 software architecture patterns - techbeacon](https://techbeacon.com/app-dev-testing/top-5-software-architecture-patterns-how-make-right-choice)
+[[Software-Architecture-Patterns.pdf]]
