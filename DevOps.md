@@ -1,6 +1,6 @@
 # DevOps
 ___
-
+[[Principles of The Three Ways]]
 
 ___
 ### Resources
