@@ -1,16 +1,8 @@
 # DevOps
 ___
-[[Principles of The Three Ways]]
 
 
 ___
 ### Deployment Tutorials
-[[deploy-ec2.pdf]]
+[[AWS ec2 manual deployment]]
 [[deploy-terraform.pdf]]
-
-___
-### Resources
-[[Gene Kim, Jez Humble, Patric Debois, and John Willis - The DevOps Handbook_ How to Create World-Class Agility, Reliability, and Security in Technology Organizations (2016, IT Revolution) - libgen.lc.pdf|The DevOps Handbook]]
-[[Software Architecture (Brief)]]
-[[Deployment Strategies]]
-

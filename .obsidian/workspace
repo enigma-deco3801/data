@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "416ea165000e1dcd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS ec2 manual deployment.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -26,7 +39,7 @@
       {
         "id": "0a4fb6b8976331a9",
         "type": "tabs",
-        "dimension": 55.01519756838907,
+        "dimension": 55.015197568389056,
         "children": [
           {
             "id": "43cd330bf7dade7a",
@@ -56,7 +69,7 @@
       {
         "id": "89958e0e783a2812",
         "type": "tabs",
-        "dimension": 20.567375886524825,
+        "dimension": 20.56737588652482,
         "children": [
           {
             "id": "3db6063ff2d5d2fe",
@@ -76,7 +89,7 @@
       {
         "id": "aca9a04c54dfac50",
         "type": "tabs",
-        "dimension": 24.41742654508612,
+        "dimension": 24.417426545086116,
         "children": [
           {
             "id": "be2ce8ef844434a2",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps.md",
+                "file": "AWS ec2 manual deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps.md",
+                "file": "AWS ec2 manual deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DevOps.md",
+                "file": "AWS ec2 manual deployment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,17 +251,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "883a36e5c6576236",
+  "active": "416ea165000e1dcd",
   "lastOpenFiles": [
-    "Software Architecture (Brief).md",
     "DevOps.md",
+    "Low Fidelity Prototype.md",
+    "DevOps Theory.md",
+    "Software Architecture (Brief).md",
     "Deployment Strategies.md",
     "Distributed Systems.md",
     "Service Based Architecture.md",
     "Microkernel (Plug-In) Architecture.md",
     "Infrastructure as Code.md",
-    "Pipeline Architecture.md",
-    "Containers (Docker).md",
-    "Principles of The Three Ways.md"
+    "Pipeline Architecture.md"
   ]
 }
