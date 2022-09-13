@@ -15,45 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "0693b8a500b02281",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Software Architecture (Brief).md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6b90524c94020753",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Deployment Strategies.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e11e94e8d8465a25",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Distributed Systems.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +26,7 @@
       {
         "id": "0a4fb6b8976331a9",
         "type": "tabs",
-        "dimension": 55.01519756838906,
+        "dimension": 55.01519756838907,
         "children": [
           {
             "id": "43cd330bf7dade7a",
@@ -95,7 +56,7 @@
       {
         "id": "89958e0e783a2812",
         "type": "tabs",
-        "dimension": 20.56737588652482,
+        "dimension": 20.567375886524825,
         "children": [
           {
             "id": "3db6063ff2d5d2fe",
@@ -146,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployment Strategies.md",
+                "file": "DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployment Strategies.md",
+                "file": "DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deployment Strategies.md",
+                "file": "DevOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,11 +238,11 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "6b90524c94020753",
+  "active": "883a36e5c6576236",
   "lastOpenFiles": [
+    "Software Architecture (Brief).md",
     "DevOps.md",
     "Deployment Strategies.md",
-    "Software Architecture (Brief).md",
     "Distributed Systems.md",
     "Service Based Architecture.md",
     "Microkernel (Plug-In) Architecture.md",
