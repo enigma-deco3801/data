@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "acc0f1ecc6f7a87f",
+        "id": "d5538a044d3e73a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -237,17 +237,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "acc0f1ecc6f7a87f",
+  "active": "d5538a044d3e73a0",
   "lastOpenFiles": [
+    "Low Fidelity Prototype.md",
+    "docs/deploy-ec2.pdf",
+    "AWS ec2 manual deployment.md",
     "2022-09-12.md",
     "log.md",
     "images/2022-09-12 2022-09-12 21.39.51.excalidraw.md",
     "revenue model 2 (open events).md",
-    "AWS ec2 manual deployment.md",
     "revenue models.md",
     "Microkernel (Plug-In) Architecture.md",
-    "Containers (Docker).md",
-    "Low Fidelity Prototype.md",
-    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md"
+    "Containers (Docker).md"
   ]
 }

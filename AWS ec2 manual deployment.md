@@ -37,7 +37,12 @@ ___
 
 - **monitor the process**
 	- `ps aux | grep -i <APP_NAME>`
+	- `pm2 stop all`
 
+
+<div style="background-color: white; padding: 10px; border: 1px solid black;">
+ If all goes well, the nodejs app will now be running on the port 5000. But 5000 is generally not reachable from the outside, so we have to connect <b>5000</b> to <b>80 (HTTP) and 443 (HTTPS)</b> through an <b><code>nginx</code></b> reverse proxy.
+</div>
 
 ___
 [[deploy-ec2.pdf]]
