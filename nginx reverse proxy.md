@@ -15,7 +15,7 @@ sudo vim /etc/nginx/sites-available/node
 ```
 server {
     listen 80;
-    server_name <DOMAIN_OR_IP_ADDR>;
+    server_name <DOMAIN_OR_DNS_ADDR>;
 
     location / {
         proxy_set_header   X-Forwarded-For $remote_addr;

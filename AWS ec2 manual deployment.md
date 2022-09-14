@@ -46,8 +46,6 @@ ___
 
 [[nginx reverse proxy]]
 
-Even after all this, the **public IP** of the instance will change with every restart, so it must be fixed with AWS Elastic IP
-
 ___
 [[deploy-ec2.pdf]]
 [deploy nodejs on ec2](https://ourcodeworld.com/articles/read/977/how-to-deploy-a-node-js-application-on-aws-ec2-server)
