@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-12.md",
+            "file": "AWS ec2 manual deployment.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "0a4fb6b8976331a9",
         "type": "tabs",
-        "dimension": 55.01519756838907,
+        "dimension": 55.01519756838906,
         "children": [
           {
             "id": "43cd330bf7dade7a",
@@ -56,7 +56,7 @@
       {
         "id": "89958e0e783a2812",
         "type": "tabs",
-        "dimension": 20.567375886524825,
+        "dimension": 22.593718338399192,
         "children": [
           {
             "id": "3db6063ff2d5d2fe",
@@ -76,7 +76,7 @@
       {
         "id": "aca9a04c54dfac50",
         "type": "tabs",
-        "dimension": 24.417426545086116,
+        "dimension": 22.391084093211752,
         "children": [
           {
             "id": "be2ce8ef844434a2",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "AWS ec2 manual deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "AWS ec2 manual deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "AWS ec2 manual deployment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,8 +239,8 @@
   },
   "active": "acc0f1ecc6f7a87f",
   "lastOpenFiles": [
-    "log.md",
     "2022-09-12.md",
+    "log.md",
     "images/2022-09-12 2022-09-12 21.39.51.excalidraw.md",
     "revenue model 2 (open events).md",
     "AWS ec2 manual deployment.md",

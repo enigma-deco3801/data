@@ -16,18 +16,28 @@ ___
 	- download key-pair - `aws ec2 create-key-pair --key-name MyKeyPair --query 'KeyMaterial' --output text > MyKeyPair.pem`
 
 - **ssh into ec2**  
-	- `ssh -i ~/.ssh/<SSH_KEY_PAIR>.pem ec2-user@<IPv4 address>`
+	- make sure key-pair is private : `chmod 400 ~/.ssh/<SSH_KEY_PAIR>.pem`
+	- `ssh -i ~/.ssh/<SSH_KEY_PAIR>.pem <username>@<IPv4 address>`
 
-- **install `node` on ec2**
-	- `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
+![[Pasted image 20220914203349.png|400]]
+
+- **install `node` and `npm` on ec2**
+	- `curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -`
 	- `sudo apt install nodejs`
+	- `sudo apt install npm`
 
 - **install `pm2`** 
 	- so that server can run even after terminal closing
+	- `npm install -g pm2`
 
 - **`git clone` the repo**
 - **start the app**
 	- `pm2 start npm --name "<APP_NAME>" -- start`
+	- `pm2 startup`
+
+- **monitor the process**
+	- `ps aux | grep -i <APP_NAME>`
+
 
 ___
 [[deploy-ec2.pdf]]
