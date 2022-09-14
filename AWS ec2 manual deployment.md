@@ -1,17 +1,14 @@
 # AWS ec2 manual deployment
+Prereq: [[AWS Configuration]]
 ___
 ### Overview
 ![[Pasted image 20220913185734.png|400]]
 
 ___
 ### Process
-- **Download AWS CLI**
-	- `curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"` 
-	- `unzip awscliv2.zip` 
-	- `sudo ./aws/install`
-
+- **[[AWS Configuration#Installing CLI|Download AWS CLI]]**
 - **Create and configure `ec2` instance**
-	- Add tag `Name: <APP_NAME>`
+	- Add tag `Name` : `<APP_NAME>`
 	- Add security group: `<APP_NAME>-http-ssh-access`
 		- Add rule `Type` : `HTTP`
 		- Select key-pair `existing vockey | RSA` option
@@ -20,11 +17,14 @@ ___
 
 - **ssh into ec2**  
 	- `ssh -i ~/.ssh/<SSH_KEY_PAIR>.pem ec2-user@<IPv4 address>`
+
 - **install `node` on ec2**
 	- `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
 	- `sudo apt install nodejs`
+
 - **install `pm2`** 
 	- so that server can run even after terminal closing
+
 - **`git clone` the repo**
 - **start the app**
 	- `pm2 start npm --name "<APP_NAME>" -- start`

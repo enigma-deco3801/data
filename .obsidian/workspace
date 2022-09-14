@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "883a36e5c6576236",
+        "id": "acc0f1ecc6f7a87f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DevOps.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "416ea165000e1dcd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AWS ec2 manual deployment.md",
+            "file": "2022-09-12.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -39,7 +26,7 @@
       {
         "id": "0a4fb6b8976331a9",
         "type": "tabs",
-        "dimension": 55.015197568389056,
+        "dimension": 55.01519756838907,
         "children": [
           {
             "id": "43cd330bf7dade7a",
@@ -69,7 +56,7 @@
       {
         "id": "89958e0e783a2812",
         "type": "tabs",
-        "dimension": 20.56737588652482,
+        "dimension": 20.567375886524825,
         "children": [
           {
             "id": "3db6063ff2d5d2fe",
@@ -103,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8a5582535d45ee27",
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS ec2 manual deployment.md",
+                "file": "2022-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS ec2 manual deployment.md",
+                "file": "2022-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AWS ec2 manual deployment.md",
+                "file": "2022-09-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,17 +237,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "416ea165000e1dcd",
+  "active": "acc0f1ecc6f7a87f",
   "lastOpenFiles": [
-    "DevOps.md",
-    "Low Fidelity Prototype.md",
-    "DevOps Theory.md",
-    "Software Architecture (Brief).md",
-    "Deployment Strategies.md",
-    "Distributed Systems.md",
-    "Service Based Architecture.md",
+    "log.md",
+    "2022-09-12.md",
+    "images/2022-09-12 2022-09-12 21.39.51.excalidraw.md",
+    "revenue model 2 (open events).md",
+    "AWS ec2 manual deployment.md",
+    "revenue models.md",
     "Microkernel (Plug-In) Architecture.md",
-    "Infrastructure as Code.md",
-    "Pipeline Architecture.md"
+    "Containers (Docker).md",
+    "Low Fidelity Prototype.md",
+    "images/Low Fidelity Prototype 2022-08-30 03.10.23.excalidraw.md"
   ]
 }
