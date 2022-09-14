@@ -44,6 +44,10 @@ ___
  If all goes well, the nodejs app will now be running on the port 5000. But 5000 is generally not reachable from the outside, so we have to connect <b>5000</b> to <b>80 (HTTP) and 443 (HTTPS)</b> through an <b><code>nginx</code></b> reverse proxy.
 </div>
 
+[[nginx reverse proxy]]
+
+Even after all this, the **public IP** of the instance will change with every restart, so it must be fixed with AWS Elastic IP
+
 ___
 [[deploy-ec2.pdf]]
 [deploy nodejs on ec2](https://ourcodeworld.com/articles/read/977/how-to-deploy-a-node-js-application-on-aws-ec2-server)

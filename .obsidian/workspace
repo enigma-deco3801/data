@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "14761ef3c7271711",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "nginx reverse proxy.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a5582535d45ee27",
@@ -239,15 +253,15 @@
   },
   "active": "d5538a044d3e73a0",
   "lastOpenFiles": [
+    "nginx reverse proxy.md",
+    "AWS ec2 manual deployment.md",
     "Low Fidelity Prototype.md",
     "docs/deploy-ec2.pdf",
-    "AWS ec2 manual deployment.md",
     "2022-09-12.md",
     "log.md",
     "images/2022-09-12 2022-09-12 21.39.51.excalidraw.md",
     "revenue model 2 (open events).md",
     "revenue models.md",
-    "Microkernel (Plug-In) Architecture.md",
-    "Containers (Docker).md"
+    "Microkernel (Plug-In) Architecture.md"
   ]
 }
