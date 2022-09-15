@@ -7,7 +7,7 @@ sudo apt-get install nginx
 # remove default configuration
 sudo rm /etc/nginx/sites-enabled/default
 
-# make out own node configuration
+# make our own node configuration
 sudo vim /etc/nginx/sites-available/node
 ```
 
