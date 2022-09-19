@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b90d56cfbcbd75f0",
+        "id": "f77b82846bb67bcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "codebases/backend/Getting Started.md",
+            "file": "codebases/backend/Overview.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codebases/backend/Getting Started.md",
+                "file": "codebases/backend/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codebases/backend/Getting Started.md",
+                "file": "codebases/backend/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "codebases/backend/Getting Started.md",
+                "file": "codebases/backend/Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,17 +237,17 @@
     "width": 342.3999938964844,
     "collapsed": true
   },
-  "active": "b90d56cfbcbd75f0",
+  "active": "f77b82846bb67bcd",
   "lastOpenFiles": [
     "codebases/backend/concepts/Yarn Primer.md",
-    "codebases/backend/Getting Started.md",
-    "2022-08-27.md",
-    "AWS ec2 manual deployment.md",
-    "2022-09-12.md",
-    "2022-08-31 Product Development and Future Directions.md",
-    "2022-08-14.md",
-    "images/Pasted image 20220913012653.png",
-    "images/Pasted image 20220913012801.png",
-    "Untitled.md"
+    "Software Architecture (Brief).md",
+    "User Testing Methods.md",
+    "revenue models.md",
+    "Infrastructure as Code.md",
+    "Github Action - Automated Testing.md",
+    "Flow (DevOps).md",
+    "revenue model 2 (open events).md",
+    "Service Based Architecture.md",
+    "temp.md"
   ]
 }

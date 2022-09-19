@@ -14,4 +14,4 @@ TLDR for `yarn` commands:
 
 - `yarn`: Install all the dependencies listed in `package.json`. A `node_modules` folder will be created as well, but this should not concern the developer and can be ignored. Do not mess around with this folder. 
 
-We can add custom `yarn` scripts as well which can be called from time to time to execute certain tasks. These are defined in the `package.json` file as well under the `scripts` property.
+*We can add custom `yarn` scripts as well which can be called from time to time to execute certain tasks. These are defined in the `package.json` file as well under the `scripts` property.*
