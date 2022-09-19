@@ -32,6 +32,23 @@ At the time of writing this, this is the stack of the Travikit Backend:
 - Run `npx prisma studio` to visualize the database and make changes to it. 
 
 #### 1.3 Making changes to the database schema
-- Whenever changes are made to the prisma schema entities, i.e, the `schema.prisma`  run `yarn gen` and `npx prisma db push`. You may need to restart the VS Code Extension Host as well. PlanetScale and Prisma automatically and implicitly handle all the database migrations. You may need to omit sensitive database information through the `///TypeGraphQL.omit()` function. Prisma does not have inbuilt functionality to omit or hide sensitive or hidden fields, so this is a workaround where we hide it at the GraphQL interface level. 
+- Whenever changes are made to the prisma schema entities, i.e, the `schema.prisma`  run `yarn gen` and `npx prisma db push`. You may need to restart the VS Code Extension Host as well. PlanetScale and Prisma automatically and implicitly handle all the database migrations. You may need to omit sensitive database information through the `///TypeGraphQL.omit()` function. Prisma does not have inbuilt functionality to omit or hide sensitive or hidden fields, so this is a workaround to hide it at the GraphQL interface level. 
+
+#### 1.4 Adding Resolvers or Queries - General Tips
+- `TypeGraphQL` and `Prisma` docs will be holy grail for you for creating queries and mutations, and interfacing with the database. 
+- The codebase has first class support for errors. Throwing unhandled Errors is fine. In fact, the `errors` folder contains a list of errors. Each error extends the `CustomError` abstract class. E.g: a statement like `throw new NotAuthorizedError()` in a query or mutation will be gracefully handled by Apollo and the user will see a formatted error payload based on the properties defined in the `errors/NotAuthorizedError.ts` file. It is highly recommended that custom errors be created by extending the `CustomError` class. They do not need to be handled through `try-catch`, just need to be thrown. This has been done to ensure that all errors follow a specific syntax and structure, and look consistent to the frontend team. This results in a better developer experience overall.
+- `typegraphql-prisma` automatically generates types and CRUD resolvers. Be mindful of not writing any repetitive code. 
+- Use `class-validator` for input validation. TypeGraphQL supports this package out of the box, which is the reason why it is being used heavily for validation. 
+  
+  #### 1.5 Write consistent code
+- Refactors are encouraged. Make sure you explain the changes in the PR. 
+- Comments are encouraged, but the code should be simple and self-explanatory. 
+- The codebase should be free of problems and warnings, and devoid of linter errors. No unused imports or variables. Parameter Doc strings are not needed. This is handled by TypeScript & VS Code automatically.
+- Take advantage of type inference. Do not manually give everything a type. https://www.youtube.com/watch?v=RmGHnYUqQ4k
+- Try not to use the TypeScript keyword `any` to be used in the codebase. Add a comment for explanation if you're using it. Either get the variable type inferred or manually type it. All packages have to be TypeScript friendly or at least have a TypeScript definition file (usually `index.d.ts` in `node_modules`). Sometimes `yarn add -D @types/<package_name>` is needed for JavaScript packages.
+- Try to keep similar functionality in the same file. Your job is to add functionality, not to organize things or jump between multiple files. Only split files when the code becomes too long. Having said that, you're the ultimate judge. 
+- Use `Enums`  over constant strings or objects when possible. They have better autocomplete. 
+- Types re-used throughout the codebase go in `utils/types.ts`
+  
 
 

@@ -12,7 +12,7 @@
             "file": "codebases/backend/Overview.md",
             "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
@@ -240,6 +240,7 @@
   "active": "f77b82846bb67bcd",
   "lastOpenFiles": [
     "codebases/backend/concepts/Yarn Primer.md",
+    "codebases/backend/Overview.md",
     "Software Architecture (Brief).md",
     "User Testing Methods.md",
     "revenue models.md",
@@ -247,7 +248,6 @@
     "Github Action - Automated Testing.md",
     "Flow (DevOps).md",
     "revenue model 2 (open events).md",
-    "Service Based Architecture.md",
-    "temp.md"
+    "Service Based Architecture.md"
   ]
 }
