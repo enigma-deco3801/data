@@ -14,7 +14,7 @@ At the time of writing this, this is the stack of the Travikit Backend:
 
 ### 1. Setting up the development environment
 #### 1.1 Prerequisites 
-- Install Visual Studio Code. Install extensions for `ESLint` and `Prisma`, along with any others like you want. It is highly recommended that you enable `Auto Save` on VS Code. Also enable GitHub Copilot and VS Code Intellisense if you haven't. All these tools come as extensions, so just search the marketplace. 
+- Install Visual Studio Code. Install extensions for `ESLint`, `Prettier` and `Prisma`, along with any others like you want. It is highly recommended that you enable `Auto Save` on VS Code. Also enable GitHub Copilot and VS Code Intellisense if you haven't. All these tools come as extensions, so just search the marketplace. 
 - Install `node` if you haven't already. It is highly recommended that you install it through `nvm` or `volta`. This makes upgrading Node easier. A quick google will help you understand what these technologies are. Primer for this is out of scope. 
 - Install `yarn` - a package manager which serves as an alternative to `npm`. Vishal has made a `yarn` primer for you - [[Yarn Primer]].
 - `npm i -g yarn`: Install yarn
@@ -43,6 +43,7 @@ At the time of writing this, this is the stack of the Travikit Backend:
 #### 1.5 Write consistent code
 - Refactors are encouraged. Make sure you explain the changes in the PR. 
 - Comments are encouraged, but the code should be simple and self-explanatory. 
+- Code should always be formatted using the VS Code  `Prettier` extension.
 - The codebase should be free of problems and warnings, and devoid of linter errors. No unused imports or variables. Parameter Doc strings are not needed. This is handled by TypeScript & VS Code automatically.
 - Take advantage of type inference. Do not manually give everything a type. https://www.youtube.com/watch?v=RmGHnYUqQ4k
 - Try not to use the TypeScript keyword `any` to be used in the codebase. Add a comment for explanation if you're using it. Either get the variable type inferred or manually type it. All packages have to be TypeScript friendly or at least have a TypeScript definition file (usually `index.d.ts` in `node_modules`). Sometimes `yarn add -D @types/<package_name>` is needed for JavaScript packages.
