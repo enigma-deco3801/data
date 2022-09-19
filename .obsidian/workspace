@@ -12,7 +12,7 @@
             "file": "codebases/backend/Overview.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }

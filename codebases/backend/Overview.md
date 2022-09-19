@@ -21,7 +21,7 @@ At the time of writing this, this is the stack of the Travikit Backend:
 - `npm i -g eslint`: Helps with linting on VS Code
 
 #### 1.2 Dev Setup 
-- Clone the project `travikit-backend` - https://github.com/enigma-deco3801/travikit-backend
+- Clone the project `travikit-backend` - https://github.com/enigma-deco3801/travikit-backend. If you're facing issues, contact Vishal.
 - Run: `cd travikit-backend`
 - Run: `yarn`
 - Copy the `.env.sample` and rename it to `.env`. All sensitive credentials go here. Never commit this to the repository. By default, `.env` has been added to the `.gitignore`.
