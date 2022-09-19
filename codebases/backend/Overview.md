@@ -32,6 +32,6 @@ At the time of writing this, this is the stack of the Travikit Backend:
 - Run `npx prisma studio` to visualize the database and make changes to it. 
 
 #### 1.3 Making changes to the database schema
-- Whenever changes are made to the prisma schema entities, i.e, the `schema.prisma`  run `yarn gen` and `npx prisma db push`. You may need to restart the VS Code Extension Host as well. PlanetScale and Prisma automatically and implicitly handle all the database migrations. 
+- Whenever changes are made to the prisma schema entities, i.e, the `schema.prisma`  run `yarn gen` and `npx prisma db push`. You may need to restart the VS Code Extension Host as well. PlanetScale and Prisma automatically and implicitly handle all the database migrations. You may need to omit sensitive database information through the `///TypeGraphQL.omit()` function. Prisma does not have inbuilt functionality to omit or hide sensitive or hidden fields, so this is a workaround where we hide it at the GraphQL interface level. 
 
 
