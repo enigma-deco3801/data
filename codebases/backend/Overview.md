@@ -40,7 +40,7 @@ At the time of writing this, this is the stack of the Travikit Backend:
 - `typegraphql-prisma` automatically generates types and CRUD resolvers. Be mindful of not writing any repetitive code. 
 - Use `class-validator` for input validation. TypeGraphQL supports this package out of the box, which is the reason why it is being used heavily for validation. 
   
-  #### 1.5 Write consistent code
+#### 1.5 Write consistent code
 - Refactors are encouraged. Make sure you explain the changes in the PR. 
 - Comments are encouraged, but the code should be simple and self-explanatory. 
 - The codebase should be free of problems and warnings, and devoid of linter errors. No unused imports or variables. Parameter Doc strings are not needed. This is handled by TypeScript & VS Code automatically.
