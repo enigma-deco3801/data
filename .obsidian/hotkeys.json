@@ -67,14 +67,7 @@
       "key": "E"
     }
   ],
-  "obsidian-shellcommands:shell-command-0": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
+  "obsidian-shellcommands:shell-command-0": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "editor:save-file": [],
   "darlal-switcher-plus:switcher-plus:open": [
@@ -85,5 +78,6 @@
       "key": "O"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "templater-obsidian:insert-templater": []
 }

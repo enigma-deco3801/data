@@ -1,0 +1,16 @@
+- Started the research and prototyping, brainstorming.
+- We drafted up the basic thing by (insert date).
+- We received a lot of valuable feedback by our tutor and had to change a lot of things, but some things remained the same.
+- We refined a lot on (insert some topics here).
+- Built the low-fidelity prototype and showed it to the tutor.
+- We started building the prototype and started conducting interviews.
+- Around this time we also started building the actual app.
+	- Our approach: Start building the validated portions of the high-fidelity prototype.
+- Built the APK and sent it to our friends, received disappointing news (people were not opening). 
+- Individual reviews
+- Mid-sem break: Went on a trip to Gold Coast and used the app (to some extent) for sharing media, among other things.
+- Observations from the trip: we were forgetting that we had to use the app to share photos and were taking through regular camera. After that, people were too lazy to open up the app and share the photos.
+	- We then designed an improved user experience that would not only address this issue but also revolutionize the way people interact with our app.
+	- (Explain about the Dynamic Recognition).
+- Completed the app.
+- Future Directions.
